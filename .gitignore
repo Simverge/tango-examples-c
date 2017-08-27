@@ -8,3 +8,6 @@
 *.dex
 *gen/
 *local.properties
+**.gradle/
+**/build/
+**/.externalNativeBuild
